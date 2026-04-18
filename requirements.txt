@@ -1,0 +1,3 @@
+# 依赖库，考试时可能是 openai 或 requests
+openai
+python-dotenv
